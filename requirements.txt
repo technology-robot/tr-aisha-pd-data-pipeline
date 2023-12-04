@@ -1,0 +1,7 @@
+apache-beam[gcp]
+openai
+qdrant-client
+numpy
+llama_index
+gcsfs
+pymongo[srv]
